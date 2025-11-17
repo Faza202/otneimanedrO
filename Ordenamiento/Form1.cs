@@ -57,7 +57,7 @@ namespace Ordenamiento
 
             //comboBox
             cboCantidad.DropDownStyle = ComboBoxStyle.DropDownList;
-            cboCantidad.Items.AddRange(new object[] { "500", "1000", "1500", "2000" });
+            cboCantidad.Items.AddRange(new object[] { "500", "1000", "1500", "2000","3000", "5000", "10000", "20000", "10000000" });
             cboCantidad.Location = new Point(12, 12);
             cboCantidad.Width = 120;
 
